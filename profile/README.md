@@ -4,6 +4,17 @@ This holds the repositories for assignments for the [ZHAW ADLS BSc programme](ht
 
 Join us studying the future of AI, Robotics, Cloud and Edge Computing at our wonderful garden campus at the Lake of Zurich. 
 
+### ZHAW Student information 
+
+- [Apply for GitHub Education Benefits (requires a ZHAW account)](#)
+
+### Information for lecturers and instructors
+
+- [Setting up a classroom](#)
+- [Setting up an assignment](#)
+- [Student information](#)
+- [Enrol students from a moodle course](#)
+
 <!--
 
 **Here are some ideas to get you started:**
