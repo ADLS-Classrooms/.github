@@ -12,7 +12,7 @@ Join us studying the future of AI, Robotics, Cloud and Edge Computing at our won
 
 - [Setting up a classroom](https://github.com/ADLS-Classrooms/.github/wiki/Setting-up-a-classroom)
 - [Setting up an assignment](https://github.com/ADLS-Classrooms/.github/wiki/Setting-up-an-assignment)
-- [Student information](https://github.com/github.com/ADLS-Classrooms/.github/wiki/Enrolling-and-inviting-students)
+- [Student information](https://github.com/ADLS-Classrooms/.github/wiki/Enrolling-and-inviting-students)
 - [Enrol students from a moodle course](https://github.com/ADLS-Classrooms/.github/wiki/Enrolling-students-via-Moodle)
 
 <!--
