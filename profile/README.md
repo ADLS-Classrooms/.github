@@ -10,10 +10,10 @@ Join us studying the future of AI, Robotics, Cloud and Edge Computing at our won
 
 ### Information for lecturers and instructors
 
-- [Setting up a classroom](#)
-- [Setting up an assignment](#)
-- [Student information](#)
-- [Enrol students from a moodle course](#)
+- [Setting up a classroom](/ADLS-Classrooms/.github/wiki/Setting-up-a-classroom)
+- [Setting up an assignment](/ADLS-Classrooms/.github/wiki/Setting-up-an-assignment)
+- [Student information](//github.com/ADLS-Classrooms/.github/wiki/Enrolling-and-inviting-students)
+- [Enrol students from a moodle course](https://github.com/ADLS-Classrooms/.github/wiki/Enrolling-students-via-Moodle)
 
 <!--
 
